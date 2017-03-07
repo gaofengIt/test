@@ -9,5 +9,7 @@ public class TestDemo {
     public void test() {
         System.out.println("testest");
         System.out.println("testest");
+        System.out.println("testest");
+        System.out.println("testest");
     }
 }
